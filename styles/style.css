@@ -16,6 +16,10 @@ ul {
     padding: 0 15px;
 }
 
+body{
+    background: gray;
+}
+
 .header__nav-box {
     display: flex;
     justify-content: space-between;
